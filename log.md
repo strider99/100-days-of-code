@@ -12,3 +12,13 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 2: January 2, 2019
+
+**Today's Progress**: Doubly Linked List Shift, Unshift Implementation, Freecodecamp react started.
+
+**Thoughts** A bit slower than yesterday. Need to pick up speed tomorrow.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
