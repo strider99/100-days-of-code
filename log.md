@@ -24,4 +24,10 @@
 
 **Thoughts** good speed. WIll start redux challenges tomorrow.
 
+### Day 3: January 4, 2019
+
+**Today's Progress**: Fixed errors in a voting app project. Started redux challenges from redux.
+
+**Thoughts** will continue redux challenges tomorrow.
+
 
