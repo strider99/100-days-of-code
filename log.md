@@ -24,10 +24,24 @@
 
 **Thoughts** good speed. WIll start redux challenges tomorrow.
 
-### Day 3: January 4, 2019
+### Day 4: January 4, 2019
 
-**Today's Progress**: Fixed errors in a voting app project. Started redux challenges from redux.
+**Today's Progress**: Fixed errors in a voting app project. Started redux challenges from freecodecamp.
 
 **Thoughts** will continue redux challenges tomorrow.
+
+### Day 5: January 5, 2019
+
+**Today's Progress**: Fixed remaining errors in a voting app project. Finished redux and react-redux challenges from freecodecamp.
+
+**Thoughts** will start to do react project tomorrow
+
+### Day 6: January 6, 2019
+
+**Today's Progress**: Finished SASS challenges from freecodecamp. Started react - todo app.
+
+**Thoughts** good progress. will try to finish todo app tomorrow.
+
+
 
 
