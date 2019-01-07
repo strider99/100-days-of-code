@@ -42,6 +42,12 @@
 
 **Thoughts** good progress. will try to finish todo app tomorrow.
 
+### Day 7: January 7, 2019
+
+**Today's Progress**: Continued todo app. Almost finished.
+
+**Thoughts** Not satisfied with the progress.
+
 
 
 
