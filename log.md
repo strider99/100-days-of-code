@@ -48,6 +48,12 @@
 
 **Thoughts** Not satisfied with the progress.
 
+### Day 8: January 8, 2019
+
+**Today's Progress**: finished todo app.
+
+**Thoughts** Start new project tomorrow
+
 
 
 
