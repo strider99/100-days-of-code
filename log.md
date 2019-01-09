@@ -54,6 +54,12 @@
 
 **Thoughts** Start new project tomorrow
 
+### Day 9: January 9, 2019
+
+**Today's Progress**: add jsonplaceholder api to todo app. deployed it on netlify. Played a bit with PouchDB
+
+**Thoughts** PouchDB is very interesting. Tomorrow will start burger again.
+
 
 
 
