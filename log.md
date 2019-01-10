@@ -60,6 +60,14 @@
 
 **Thoughts** PouchDB is very interesting. Tomorrow will start burger again.
 
+### Day 10: January 10, 2019
+
+**Today's Progress**: 1) Completed all the necessary functions of a double linked list. 2) Started in random quote generator app using react
+
+**Thoughts** This was a very productive day.
 
 
+
+
+http://bit.ly/double-Linked-List
 
