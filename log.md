@@ -66,6 +66,12 @@
 
 **Thoughts** This was a very productive day.
 
+### Day 11: January 11, 2019
+
+**Today's Progress**: 1) Continue build a burger app.
+
+**Thoughts** Not satisfied. need to work harder.
+
 
 
 
