@@ -72,8 +72,13 @@
 
 **Thoughts** Not satisfied. need to work harder.
 
+### Day 12: January 12, 2019
+
+**Today's Progress**: connecting burger builder container to redux store, moving from react state to redux.
+
+**Thoughts** Not satisfied. need to work harder2
 
 
 
-http://bit.ly/double-Linked-List
+
 
