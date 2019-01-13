@@ -76,7 +76,13 @@
 
 **Today's Progress**: connecting burger builder container to redux store, moving from react state to redux.
 
-**Thoughts** Not satisfied. need to work harder2
+**Thoughts** Good work
+
+### Day 13: January 13, 2019
+
+**Today's Progress**: code a demo project to experiment webpack
+
+**Thoughts** Webpack and a bit of stacks.
 
 
 
