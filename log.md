@@ -84,6 +84,18 @@
 
 **Thoughts** Webpack and a bit of stacks.
 
+### Day 14: January 14, 2019
+
+**Today's Progress**: Implemented stack and queue
+
+**Thoughts** good pregress
+
+### Day 15: January 15, 2019
+
+**Today's Progress**: continue burger app, start binary search trees
+
+**Thoughts** Not satisfied.
+
 
 
 
