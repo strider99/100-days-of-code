@@ -96,6 +96,12 @@
 
 **Thoughts** Not satisfied.
 
+### Day 16: January 16, 2019
+
+**Today's Progress**: formik and yup implement in demo app.
+
+**Thoughts** not bad
+
 
 
 
