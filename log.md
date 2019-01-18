@@ -102,6 +102,18 @@
 
 **Thoughts** not bad
 
+### Day 17: January 17, 2019
+
+**Today's Progress**: start travel app
+
+**Thoughts** not bad
+
+### Day 18: January 18, 2019
+
+**Today's Progress**: start mobx project
+
+**Thoughts** not bad
+
 
 
 
