@@ -114,6 +114,18 @@
 
 **Thoughts** not bad
 
+### Day 19: January 19, 2019
+
+**Today's Progress**: continue mobx
+
+**Thoughts** ok
+
+### Day 20: January 20, 2019
+
+**Today's Progress**: continue mobx
+
+**Thoughts** need to speed up
+
 
 
 
