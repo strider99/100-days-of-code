@@ -127,17 +127,17 @@
 **Thoughts** need to speed up
 
 
-### Day 22: January 22, 2019
+### Day 21: January 21, 2019
 
 **Today's Progress**: Mobx Async Stuff and react async
 
 **Thoughts** good
 
-### Day 21: January 21, 2019
+### Day 22: January 22, 2019
 
-**Today's Progress**:
+**Today's Progress**: Git Branching and merging. React checkbox experiments.
 
-**Thoughts**
+**Thoughts** - Nice.
 
 
 
