@@ -139,6 +139,12 @@
 
 **Thoughts** - Nice.
 
+### Day 23: January 23, 2019
+
+**Today's Progress**: Complete person list app
+
+**Thoughts** - Nice.
+
 
 
 
