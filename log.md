@@ -145,6 +145,12 @@
 
 **Thoughts** - Nice.
 
+### Day 24: January 24, 2019
+
+**Today's Progress**: React Modals and react forms.
+
+**Thoughts** - Couldnt wake up early but still studied what I could.
+
 
 
 
