@@ -151,6 +151,12 @@
 
 **Thoughts** - Couldnt wake up early but still studied what I could.
 
+### Day 25: January 25, 2019
+
+**Today's Progress**: React Modals.
+
+**Thoughts** - solved many issues.
+
 
 
 
