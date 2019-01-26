@@ -157,6 +157,12 @@
 
 **Thoughts** - solved many issues.
 
+### Day 26: January 26, 2019
+
+**Today's Progress**: Start recipe project. create components for it for it.
+
+**Thoughts** - good going.
+
 
 
 
