@@ -159,7 +159,13 @@
 
 ### Day 26: January 26, 2019
 
-**Today's Progress**: Start recipe project. create components for it for it.
+**Today's Progress**: Start recipe project. create components for it.
+
+**Thoughts** - good going.
+
+### Day 27: January 27, 2019
+
+**Today's Progress**: continue recipe project.
 
 **Thoughts** - good going.
 
