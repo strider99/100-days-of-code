@@ -169,6 +169,12 @@
 
 **Thoughts** - good going.
 
+### Day 28: January 28, 2019
+
+**Today's Progress**: continue recipe project.
+
+**Thoughts** - slow.
+
 
 
 
