@@ -175,6 +175,11 @@
 
 **Thoughts** - slow.
 
+### Day 29: January 29, 2019
+
+**Today's Progress**: continue recipe project.
+
+**Thoughts** - slow.
 
 
 
