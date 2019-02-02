@@ -181,5 +181,10 @@
 
 **Thoughts** - slow.
 
+###Day 30: Feb 2, 2019
+
+**Today's Progress**:- Recipe app , make functional recipe list and details page.
+**Thoughts** - good speed and some nice tricks.
+
 
 
