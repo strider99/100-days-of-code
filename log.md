@@ -201,5 +201,10 @@
 **Today's Progress** - Breadcrumbs in react.
 **Thoughts** - will be starting ecommerce website tomorrow.
 
+###Day 34: Feb 7, 2019
+
+**Today's Progress** - Start ecommerce app project. setup project files.
+**Thoughts** - slow start but will pick up speed tomorrow.
+
 
 
