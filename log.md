@@ -186,5 +186,20 @@
 **Today's Progress**:- Recipe app , make functional recipe list and details page.
 **Thoughts** - good speed and some nice tricks.
 
+###Day 31: Feb 3, 2019
+
+**Today's Progress** - Recipe App - Completed. also learnt about cname and subdomains.
+**Thoughts** - will move on to a new project now.
+
+###Day 32: Feb 6, 2019
+
+**Today's Progress** - experiments with adding single click and double click to the same component
+**Thoughts** - last few days have been a bit slow
+
+###Day 33: Feb 7, 2019
+
+**Today's Progress** - Breadcrumbs in react.
+**Thoughts** - will be starting ecommerce website tomorrow.
+
 
 
