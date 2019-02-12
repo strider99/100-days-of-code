@@ -201,10 +201,33 @@
 **Today's Progress** - Breadcrumbs in react.
 **Thoughts** - will be starting ecommerce website tomorrow.
 
-###Day 34: Feb 7, 2019
+###Day 34: Feb 8, 2019
 
 **Today's Progress** - Start ecommerce app project. setup project files.
 **Thoughts** - slow start but will pick up speed tomorrow.
+
+###Day 35: Feb 9, 2019
+
+**Today's Progress** - Set up initial files in incommerce app. Separated everything into reusable components.
+**Thoughts** - good hustle
+
+###Day 36: Feb 10, 2019
+
+**Today's Progress** - store/cart project- added routes, created product page, used context api.
+**Thoughts** - nice progress
+
+###Day 37: Feb 11, 2019
+
+**Today's Progress** - edit table fields in react.
+**Thoughts** - nice progress
+
+###Day 38: Feb 11, 2019
+
+**Today's Progress** - proptypes, new css using var.
+**Thoughts** - nice progress
+
+
+
 
 
 
