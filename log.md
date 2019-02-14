@@ -227,6 +227,11 @@
 **Thoughts** - nice progress
 
 
+###Day 39: Feb 14, 2019
+
+**Today's Progress** - CRUD operations for a project
+**Thoughts** - decent
+
 
 
 
