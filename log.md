@@ -233,6 +233,11 @@
 **Thoughts** - decent
 
 
+###Day 40: Feb 15, 2019
+
+**Today's Progress** - played around with fetch, promise and axios
+**Thoughts** - good hustle
+
 
 
 
