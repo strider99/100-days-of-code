@@ -238,6 +238,23 @@
 **Today's Progress** - played around with fetch, promise and axios
 **Thoughts** - good hustle
 
+###Day 41: Feb 16, 2019
+
+**Today's Progress** - react js pagination, search and pagination
+**Thoughts** - learnt a lot
+
+###Day 42: Feb 17, 2019
+
+**Today's Progress** - Higher order components.
+**Thoughts** finally understood
+
+###Day 43: Feb 18, 2019
+**Today's Progress** -  Breaking UI into small resuable components. and forcibly trying to use HOC just to get a good feel.
+
+###Day 44: Feb 19, 2019
+
+**Today's Progress** - tried drag and drop in react. failed. will try to use a package tomorrow.
+**Thoughts** Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 
 
 
