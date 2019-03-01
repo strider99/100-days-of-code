@@ -256,5 +256,13 @@
 **Today's Progress** - tried drag and drop in react. failed. will try to use a package tomorrow.
 **Thoughts** Ever tried. Ever failed. No matter. Try again. Fail again. Fail better.
 
+###Day 45: Feb 21, 2019
+
+**Today's Progress** - dynamic form creation.
+**Thoughts** disaster, had to comment most of the codes.
 
 
+
+###Day 50: March 2,2019
+**Today's Progress** - More form validations
+**Thoughts** - Good work overall
