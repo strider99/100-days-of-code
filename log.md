@@ -266,3 +266,6 @@
 ###Day 50: March 2,2019
 **Today's Progress** - More form validations
 **Thoughts** - Good work overall
+
+###Day 51: March 2, 2019
+**Today's Progress** - Bug fixing
